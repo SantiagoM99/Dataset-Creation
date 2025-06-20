@@ -163,4 +163,4 @@ The scripts generate JSON files with complete article metadata:
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.  
