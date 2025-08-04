@@ -248,7 +248,7 @@ class MeshProcessorLocal:
             
             result = {
                 'pmid': article.get('pmid'),
-                'title': article.get('title', ''),
+                'title': article.get('title_spanish_translation', {}).get('translated_title', ''),
                 'year': article.get('publication_info', {}).get('year'),
                 'spanish_abstract': spanish_abstract,
                 'level1_codes': categories['level1_codes'],
