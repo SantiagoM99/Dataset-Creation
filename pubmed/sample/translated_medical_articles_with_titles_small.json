@@ -1,0 +1,778 @@
+{
+  "metadata": {
+    "creation_date": "2025-06-19T20:36:42.881154",
+    "collection_method": "Multi-strategy search with copyright and quality filters",
+    "total_articles": 44604,
+    "filters_applied": [
+      "Spanish language",
+      "Has abstract (minimum 50 words)",
+      "Has MeSH terms",
+      "Copyright-free (open access or free full text)"
+    ],
+    "search_strategies": [
+      "Date-based search (2000-2025)",
+      "Open access journal search",
+      "Medical subject search"
+    ],
+    "translation_info": {
+      "model_used": "Helsinki-NLP/opus-mt-en-es",
+      "abstract_batch_size": null,
+      "title_batch_size": 4,
+      "titles_only_mode": true,
+      "translation_stats": {
+        "abstracts": null,
+        "titles": {
+          "successful": 4,
+          "failed": 0,
+          "total": 4
+        },
+        "total_time_minutes": 0.15219639539718627,
+        "items_per_minute": 26.281831376894424
+      }
+    }
+  },
+  "statistics": {
+    "total_articles": 44604,
+    "language_distribution": {
+      "mixed_or_unknown": 13771,
+      "english": 30667,
+      "spanish": 166
+    },
+    "year_range": {
+      "earliest": 1988,
+      "latest": 2025
+    },
+    "top_years": {
+      "2020": 2449,
+      "2021": 2438,
+      "2015": 2377,
+      "2017": 2371,
+      "2016": 2320,
+      "2014": 2278,
+      "2019": 2162,
+      "2018": 2155,
+      "2022": 2073,
+      "2011": 2023
+    },
+    "top_journals": {
+      "Revista medica de Chile": 3701,
+      "Revista espanola de cardiologia": 2149,
+      "Gaceta sanitaria": 2117,
+      "Archivos argentinos de pediatria": 2013,
+      "Anales de pediatria (Barcelona, Spain : 2003)": 1871,
+      "Atencion primaria": 1870,
+      "Revista latino-americana de enfermagem": 1816,
+      "Nutricion hospitalaria": 1772,
+      "Revista espanola de salud publica": 1616,
+      "Revista chilena de infectologia : organo oficial de la Sociedad Chilena de Infectologia": 1327,
+      "Actas dermo-sifiliograficas": 1262,
+      "Medicina": 1255,
+      "Acta otorrinolaringologica espanola": 1252,
+      "Nefrologia : publicacion oficial de la Sociedad Espanola Nefrologia": 1222,
+      "Anales del sistema sanitario de Navarra": 1048,
+      "Acta ortopedica mexicana": 1005,
+      "Revista peruana de medicina experimental y salud publica": 943,
+      "Radiologia": 899,
+      "Revista de salud publica (Bogota, Colombia)": 872,
+      "Biomedica : revista del Instituto Nacional de Salud": 706
+    },
+    "avg_abstract_length": 193.51049233252624,
+    "structured_abstracts": 24856,
+    "collection_stats": {
+      "total_searched": 78733,
+      "total_found": 49039,
+      "filtered_no_abstract": 32,
+      "filtered_no_mesh": 3949,
+      "final_articles": 44604
+    }
+  },
+  "articles": [
+    {
+      "pmid": "15745669",
+      "title": "[Epidemiological aspects of dog bites].",
+      "abstract": {
+        "full_text": "Animal bites in humans are an important public health problem. Most of these bites are dog bites. The first step in preventing this kind of accident is to identify the associated risk factors. The present article reviews the most important published articles on the incidence of dog bites, their risk factors, and preventive measures. Concerning victim profiles, features such as age, sex, location, and the severity of the wounds are reviewed. Regarding dogs, the most frequent breeds involved and the dog's previous history of aggression are described. In addition, the different contexts in which bites occur are reported. Thus, factors such as dates, number of dogs, places, victim-dog relationship and interaction, and the distinct involved categories of aggression of the canine ethogram are reviewed. The most frequent recommendations found in the literature to reduce and prevent dog bites in the human population are also described.",
+        "sections": [
+          {
+            "label": "Main",
+            "content": "Animal bites in humans are an important public health problem. Most of these bites are dog bites. The first step in preventing this kind of accident is to identify the associated risk factors. The present article reviews the most important published articles on the incidence of dog bites, their risk factors, and preventive measures. Concerning victim profiles, features such as age, sex, location, and the severity of the wounds are reviewed. Regarding dogs, the most frequent breeds involved and the dog's previous history of aggression are described. In addition, the different contexts in which bites occur are reported. Thus, factors such as dates, number of dogs, places, victim-dog relationship and interaction, and the distinct involved categories of aggression of the canine ethogram are reviewed. The most frequent recommendations found in the literature to reduce and prevent dog bites in the human population are also described."
+          }
+        ],
+        "has_content": true,
+        "word_count": 145,
+        "structured": false,
+        "spanish_translation": {
+          "text": "Las mordeduras de animales en humanos son un importante problema de salud pública. La mayoría de estas mordeduras son mordeduras de perro. El primer paso para prevenir este tipo de accidentes es identificar los factores de riesgo asociados. El presente artículo revisa los artículos publicados más importantes sobre la incidencia de mordeduras de perros, sus factores de riesgo y medidas preventivas. En cuanto a los perfiles de las víctimas, se revisan características como la edad, el sexo, la ubicación y la gravedad de las heridas. En cuanto a los perros, se describen las razas más frecuentes involucradas y la historia previa de agresión del perro. Además, se informan los diferentes contextos en los que ocurren las picaduras. Así, se revisan factores como fechas, número de perros, lugares, relación e interacción entre la víctima y el perro, y las distintas categorías involucradas de agresión del etograma canino. También se describen las recomendaciones más frecuentes encontradas en la literatura para reducir y prevenir las mordeduras de perros en la población humana.",
+          "success": true,
+          "model_used": "Helsinki-NLP/opus-mt-en-es",
+          "batch_size_used": 4,
+          "translation_date": "2025-06-24T17:09:20.247630"
+        }
+      },
+      "abstract_language": "mixed_or_unknown",
+      "journal": {
+        "title": "Gaceta sanitaria",
+        "iso_abbreviation": "Gac Sanit",
+        "issn": "0213-9111"
+      },
+      "authors": [
+        {
+          "last_name": "Palacio",
+          "first_name": "Jorge"
+        },
+        {
+          "last_name": "León",
+          "first_name": "Marta"
+        },
+        {
+          "last_name": "García-Belenguer",
+          "first_name": "Sylvia"
+        }
+      ],
+      "mesh_terms": [
+        {
+          "descriptor": {
+            "name": "Adolescent",
+            "ui": "D000293",
+            "major_topic": false
+          },
+          "qualifiers": []
+        },
+        {
+          "descriptor": {
+            "name": "Adult",
+            "ui": "D000328",
+            "major_topic": false
+          },
+          "qualifiers": []
+        },
+        {
+          "descriptor": {
+            "name": "Animals",
+            "ui": "D000818",
+            "major_topic": false
+          },
+          "qualifiers": []
+        },
+        {
+          "descriptor": {
+            "name": "Bites and Stings",
+            "ui": "D001733",
+            "major_topic": false
+          },
+          "qualifiers": [
+            {
+              "name": "epidemiology",
+              "ui": "Q000453",
+              "major_topic": true
+            }
+          ]
+        },
+        {
+          "descriptor": {
+            "name": "Child",
+            "ui": "D002648",
+            "major_topic": false
+          },
+          "qualifiers": []
+        },
+        {
+          "descriptor": {
+            "name": "Child, Preschool",
+            "ui": "D002675",
+            "major_topic": false
+          },
+          "qualifiers": []
+        },
+        {
+          "descriptor": {
+            "name": "Dogs",
+            "ui": "D004285",
+            "major_topic": true
+          },
+          "qualifiers": []
+        },
+        {
+          "descriptor": {
+            "name": "Female",
+            "ui": "D005260",
+            "major_topic": false
+          },
+          "qualifiers": []
+        },
+        {
+          "descriptor": {
+            "name": "Humans",
+            "ui": "D006801",
+            "major_topic": false
+          },
+          "qualifiers": []
+        },
+        {
+          "descriptor": {
+            "name": "Infant",
+            "ui": "D007223",
+            "major_topic": false
+          },
+          "qualifiers": []
+        },
+        {
+          "descriptor": {
+            "name": "Infant, Newborn",
+            "ui": "D007231",
+            "major_topic": false
+          },
+          "qualifiers": []
+        },
+        {
+          "descriptor": {
+            "name": "Male",
+            "ui": "D008297",
+            "major_topic": false
+          },
+          "qualifiers": []
+        },
+        {
+          "descriptor": {
+            "name": "Risk Factors",
+            "ui": "D012307",
+            "major_topic": false
+          },
+          "qualifiers": []
+        }
+      ],
+      "keywords": [],
+      "publication_info": {
+        "year": 2005
+      },
+      "identifiers": {
+        "pubmed": "15745669",
+        "doi": "10.1157/13071818",
+        "pii": "13071818"
+      },
+      "collection_date": "2025-06-19T20:29:14.321024",
+      "copyright_status": "free",
+      "quality_filters_passed": [
+        "has_abstract",
+        "has_mesh_terms",
+        "copyright_free"
+      ],
+      "title_spanish_translation": {
+        "original_title": "[Epidemiological aspects of dog bites].",
+        "cleaned_title": "Epidemiological aspects of dog bites",
+        "translated_title": "Aspectos epidemiológicos de las mordeduras de perros",
+        "success": true,
+        "model_used": "Helsinki-NLP/opus-mt-en-es",
+        "batch_size_used": 4,
+        "translation_date": "2025-08-03T20:46:36.664717"
+      }
+    },
+    {
+      "pmid": "31516003",
+      "title": "[Influence of overweight and obesity on strength in childhood].",
+      "abstract": {
+        "full_text": "Introduction: overweight and obesity reach a high prevalence since childhood in Spain. Objective: to describe the effect of overweight and obesity, in schoolchildren of eleven years of age, in tests that assess the strength of both the lower and upper extremities, as well as speed. Method: four hundred and twenty-three schoolchildren of eleven years of age participated in the study. Basic anthropometric characteristics were obtained and several tests of the EUROFIT battery were developed. Results: normal-weight boys and girls had better scores in physical condition tests in general. Therefore, the vertical and horizontal jumps, bar suspension and abdominals were higher in the participants with normal-weight (p < 0.05). In addition, they performed in less time a speed circuit in both sexes (p < 0.001); however, in relation to the manual isometric strength, in the group of girls those who are overweight or obese have better results (p < 0.01). Conclusions: overweight and obese children of eleven year-olds showed a lower muscular performance, except in the case of manual isometric strength. Several equations haven been also determined for predicting the results of physical tests carried out such as jumps, dynamometry and speed, through sex and body mass index (BMI).",
+        "sections": [
+          {
+            "label": "Main",
+            "content": "Introduction: overweight and obesity reach a high prevalence since childhood in Spain. Objective: to describe the effect of overweight and obesity, in schoolchildren of eleven years of age, in tests that assess the strength of both the lower and upper extremities, as well as speed. Method: four hundred and twenty-three schoolchildren of eleven years of age participated in the study. Basic anthropometric characteristics were obtained and several tests of the EUROFIT battery were developed. Results: normal-weight boys and girls had better scores in physical condition tests in general. Therefore, the vertical and horizontal jumps, bar suspension and abdominals were higher in the participants with normal-weight (p < 0.05). In addition, they performed in less time a speed circuit in both sexes (p < 0.001); however, in relation to the manual isometric strength, in the group of girls those who are overweight or obese have better results (p < 0.01). Conclusions: overweight and obese children of eleven year-olds showed a lower muscular performance, except in the case of manual isometric strength. Several equations haven been also determined for predicting the results of physical tests carried out such as jumps, dynamometry and speed, through sex and body mass index (BMI)."
+          }
+        ],
+        "has_content": true,
+        "word_count": 198,
+        "structured": false,
+        "spanish_translation": {
+          "text": "Introducción: el sobrepeso y la obesidad alcanzan una alta prevalencia desde la infancia en España. Objetivo: describir el efecto del sobrepeso y la obesidad, en escolares de once años de edad, en pruebas que evalúen la fuerza de las extremidades inferior y superior, así como la velocidad. Método: 423 escolares de 11 años participaron en el estudio. Se obtuvieron características antropométricas básicas y se desarrollaron varias pruebas de la batería EUROFIT. Resultados: niños y niñas de peso normal tuvieron mejores puntuaciones en las pruebas de condición física en general. Por lo tanto, los saltos verticales y horizontales, suspensión de barra y abdominales fueron mayores en los participantes con peso normal (p < 0,05). Además, realizaron en menos tiempo un circuito de velocidad en ambos sexos (p < 0,001); sin embargo, en relación a la fuerza isométrica manual, en el grupo de niñas las que tienen sobrepeso u obesidad tienen mejores resultados (p < 0,01). Conclusiones: niños con sobrepeso y obesos de once años presentaron menor rendimiento muscular, excepto en el caso de la fuerza isométrica manual. También se han determinado varias ecuaciones para predecir los resultados de las pruebas físicas realizadas, como saltos, dinamometría y velocidad, a través del índice de sexo y masa corporal (IMC).",
+          "success": true,
+          "model_used": "Helsinki-NLP/opus-mt-en-es",
+          "batch_size_used": 4,
+          "translation_date": "2025-06-24T17:09:26.089807"
+        }
+      },
+      "abstract_language": "english",
+      "journal": {
+        "title": "Nutricion hospitalaria",
+        "iso_abbreviation": "Nutr Hosp",
+        "issn": "1699-5198"
+      },
+      "authors": [
+        {
+          "last_name": "Fernández-García",
+          "first_name": "José Carlos"
+        },
+        {
+          "last_name": "Castillo-Rodríguez",
+          "first_name": "Alfonso"
+        },
+        {
+          "last_name": "Onetti",
+          "first_name": "Wanesa"
+        }
+      ],
+      "mesh_terms": [
+        {
+          "descriptor": {
+            "name": "Child",
+            "ui": "D002648",
+            "major_topic": false
+          },
+          "qualifiers": []
+        },
+        {
+          "descriptor": {
+            "name": "Cross-Sectional Studies",
+            "ui": "D003430",
+            "major_topic": false
+          },
+          "qualifiers": []
+        },
+        {
+          "descriptor": {
+            "name": "Female",
+            "ui": "D005260",
+            "major_topic": false
+          },
+          "qualifiers": []
+        },
+        {
+          "descriptor": {
+            "name": "Humans",
+            "ui": "D006801",
+            "major_topic": false
+          },
+          "qualifiers": []
+        },
+        {
+          "descriptor": {
+            "name": "Male",
+            "ui": "D008297",
+            "major_topic": false
+          },
+          "qualifiers": []
+        },
+        {
+          "descriptor": {
+            "name": "Muscle Strength",
+            "ui": "D053580",
+            "major_topic": true
+          },
+          "qualifiers": []
+        },
+        {
+          "descriptor": {
+            "name": "Pediatric Obesity",
+            "ui": "D063766",
+            "major_topic": false
+          },
+          "qualifiers": [
+            {
+              "name": "physiopathology",
+              "ui": "Q000503",
+              "major_topic": true
+            }
+          ]
+        },
+        {
+          "descriptor": {
+            "name": "Physical Fitness",
+            "ui": "D010809",
+            "major_topic": true
+          },
+          "qualifiers": []
+        }
+      ],
+      "keywords": [
+        "Fuerza. Dinamometría. Condición física. Obesidad. Infancia."
+      ],
+      "publication_info": {
+        "year": 2019,
+        "month": "Oct"
+      },
+      "identifiers": {
+        "pubmed": "31516003",
+        "doi": "10.20960/nh.02596"
+      },
+      "collection_date": "2025-06-19T20:29:14.321024",
+      "copyright_status": "free",
+      "quality_filters_passed": [
+        "has_abstract",
+        "has_mesh_terms",
+        "copyright_free"
+      ],
+      "title_spanish_translation": {
+        "original_title": "[Influence of overweight and obesity on strength in childhood].",
+        "cleaned_title": "Influence of overweight and obesity on strength in childhood",
+        "translated_title": "Influencia del sobrepeso y la obesidad en la fuerza en la infancia",
+        "success": true,
+        "model_used": "Helsinki-NLP/opus-mt-en-es",
+        "batch_size_used": 4,
+        "translation_date": "2025-08-03T20:46:36.664717"
+      }
+    },
+    {
+      "pmid": "32199067",
+      "title": "[Infectious glomerulonephritis and pleuropneumonia due to Streptococcus pneumoniae. Pediatric clinical case].",
+      "abstract": {
+        "full_text": "Acute glomerulonephritis caused by Streptococcus pneumoniae is a low prevalence pathology. There are several reports communicating different nephritogenic serotypes, however, 6C has been scarcely indicated as such. It is presented the case of a 4-year-old patient who entered Intensive Therapy Unit with pleuropneumonia due to Streptococcus pneumoniae serotype 6C and concomitantly developed edemas, arterial hypertension, hematuria, proteinuria, decreased glomerular filtration rate and C3 complement level. Acute glomerulonephritis was diagnosed. His evolution was satisfactory in a short time. This pathology is usually of a transitory and benign course; however, sometimes it can potentially complicate the evolution of a critically ill patient, so it is necessary to have it among the differential diagnoses to consider.",
+        "sections": [
+          {
+            "label": "Main",
+            "content": "Acute glomerulonephritis caused by Streptococcus pneumoniae is a low prevalence pathology. There are several reports communicating different nephritogenic serotypes, however, 6C has been scarcely indicated as such. It is presented the case of a 4-year-old patient who entered Intensive Therapy Unit with pleuropneumonia due to Streptococcus pneumoniae serotype 6C and concomitantly developed edemas, arterial hypertension, hematuria, proteinuria, decreased glomerular filtration rate and C3 complement level. Acute glomerulonephritis was diagnosed. His evolution was satisfactory in a short time. This pathology is usually of a transitory and benign course; however, sometimes it can potentially complicate the evolution of a critically ill patient, so it is necessary to have it among the differential diagnoses to consider."
+          }
+        ],
+        "has_content": true,
+        "word_count": 113,
+        "structured": false,
+        "spanish_translation": {
+          "text": "La glomerulonefritis aguda causada por Streptococcus pneumoniae es una patología de baja prevalencia. Hay varios informes que comunican diferentes serotipos nefritogénicos, sin embargo, 6C ha sido apenas indicado como tal. Se presenta el caso de un paciente de 4 años que ingresó en la Unidad de Terapia Intensiva con pleuroneumonía por Streptococcus pneumoniae serotipo 6C y desarrollo concomitante de edemas, hipertensión arterial, hematuria, proteinuria, disminución de la tasa de filtración glomerular y nivel de complemento C3. Se diagnosticó glomerulonefritis aguda. Su evolución fue satisfactoria en poco tiempo. Esta patología suele ser de curso transitorio y benigno; sin embargo, a veces puede complicar potencialmente la evolución de un paciente críticamente enfermo, por lo que es necesario tenerlo entre los diagnósticos diferenciales a considerar.",
+          "success": true,
+          "model_used": "Helsinki-NLP/opus-mt-en-es",
+          "batch_size_used": 4,
+          "translation_date": "2025-06-24T17:09:32.423256"
+        }
+      },
+      "abstract_language": "mixed_or_unknown",
+      "journal": {
+        "title": "Archivos argentinos de pediatria",
+        "iso_abbreviation": "Arch Argent Pediatr",
+        "issn": "1668-3501"
+      },
+      "authors": [
+        {
+          "last_name": "Tomarelli R",
+          "first_name": "Gianfranco"
+        },
+        {
+          "last_name": "Donoso F",
+          "first_name": "Alejandro"
+        }
+      ],
+      "mesh_terms": [
+        {
+          "descriptor": {
+            "name": "Acute Disease",
+            "ui": "D000208",
+            "major_topic": false
+          },
+          "qualifiers": []
+        },
+        {
+          "descriptor": {
+            "name": "Child, Preschool",
+            "ui": "D002675",
+            "major_topic": false
+          },
+          "qualifiers": []
+        },
+        {
+          "descriptor": {
+            "name": "Glomerulonephritis",
+            "ui": "D005921",
+            "major_topic": false
+          },
+          "qualifiers": [
+            {
+              "name": "diagnosis",
+              "ui": "Q000175",
+              "major_topic": true
+            },
+            {
+              "name": "microbiology",
+              "ui": "Q000382",
+              "major_topic": false
+            }
+          ]
+        },
+        {
+          "descriptor": {
+            "name": "Humans",
+            "ui": "D006801",
+            "major_topic": false
+          },
+          "qualifiers": []
+        },
+        {
+          "descriptor": {
+            "name": "Male",
+            "ui": "D008297",
+            "major_topic": false
+          },
+          "qualifiers": []
+        },
+        {
+          "descriptor": {
+            "name": "Pleuropneumonia",
+            "ui": "D011001",
+            "major_topic": false
+          },
+          "qualifiers": [
+            {
+              "name": "diagnosis",
+              "ui": "Q000175",
+              "major_topic": true
+            },
+            {
+              "name": "microbiology",
+              "ui": "Q000382",
+              "major_topic": false
+            }
+          ]
+        },
+        {
+          "descriptor": {
+            "name": "Pneumococcal Infections",
+            "ui": "D011008",
+            "major_topic": false
+          },
+          "qualifiers": [
+            {
+              "name": "diagnosis",
+              "ui": "Q000175",
+              "major_topic": true
+            }
+          ]
+        },
+        {
+          "descriptor": {
+            "name": "Streptococcus pneumoniae",
+            "ui": "D013296",
+            "major_topic": false
+          },
+          "qualifiers": [
+            {
+              "name": "isolation & purification",
+              "ui": "Q000302",
+              "major_topic": true
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "Streptococcus pneumoniae",
+        "acute glomerulonephritis",
+        "pneumonia"
+      ],
+      "publication_info": {
+        "year": 2020,
+        "month": "Apr"
+      },
+      "identifiers": {
+        "pubmed": "32199067",
+        "doi": "10.5546/aap.2020.e208"
+      },
+      "collection_date": "2025-06-19T20:29:14.321024",
+      "copyright_status": "free",
+      "quality_filters_passed": [
+        "has_abstract",
+        "has_mesh_terms",
+        "copyright_free"
+      ],
+      "title_spanish_translation": {
+        "original_title": "[Infectious glomerulonephritis and pleuropneumonia due to Streptococcus pneumoniae. Pediatric clinical case].",
+        "cleaned_title": "Infectious glomerulonephritis and pleuropneumonia due to Streptococcus pneumoniae. Pediatric clinical case",
+        "translated_title": "Glomerulonefritis infecciosa y pleuroneumonía por Streptococcus pneumoniae. Caso clínico pediátrico",
+        "success": true,
+        "model_used": "Helsinki-NLP/opus-mt-en-es",
+        "batch_size_used": 4,
+        "translation_date": "2025-08-03T20:46:36.664717"
+      }
+    },
+    {
+      "pmid": "15199801",
+      "title": "[The EPICARDIAN project, a cohort study on cardiovascular diseases and risk factors among the elderly in Spain: methodological aspects and major demographic findings].",
+      "abstract": {
+        "full_text": "BACKGROUND: Despite a greater incidence of ischemic heart disease among individuals over age 65, most cardiovascular research has been focused on the middle-aged adult population. To date no cohort study on this population have been made in Spain. This study is aimed as reviewing the role and methodology of cohort studies as an epidemiological tool absolutely essential for researching the prevalence and incidence of angina, AMI, stroke and the major cardiovascular risk factors.\n\nMETHODS: Cohort study in three areas of Spain (Lista district in Madrid), Arevalo (Avila) and Begonte (Lugo). Age and sex stratified random sample by based on the municipal censuses of each area and municipality (n = 5.079). Two-stage initial cohort assessment: home survey structured for the screening ischemic heart disease and classic risk factors (hypertension, dyslipemia, diabetes and smoking habit) and clinical assessment for case confirmation. In the follow-up phase the MONICA project \"cold pursuit\" method modified for pinpointing and investigating indicent cases was used, employing all of the hospital and primary care clinical records for confirming the cardiovascular event. Data was also requested from the Spanish National Institute of Statistics as to the cause and date of death of the deceased individuals in the cohort.\n\nRESULTS: The overall AMI prevalence was 4% (95% CI: 3.4%, 4.5%); definite plus probable AMI being 6.2% (95% CI: 5.5-6.9). The definite AMI prevalence was higher among the mean 6.7% (95% CI: 5.63-7.79) than among the women, 2% (95% CI: 1.51-2.55) (p < 0.001). Hypertension prevalence according to JNCV1 criteria was 68%, hypercholesterolemia 26.4% according to NCEP criteria, diabetes prevalence 13.4% according to WHO criteria, and 11.3% were smokers. The cumulative incidence for a 3.2-year period for nonfatal definite AMI was 1.4% (95% CI: 1.1-1.8); 1.1% (95% CI: 0.74-1.37) probable AMI: 1.17 (IC95%: 0.824-1.48) for fatal definite AMI or death due to AMI and 1.13% (IC 95%: 0.824-1.48) for sudden death.\n\nCONCLUSIONS: The elderly population included in this study shows a high prevalence of cardiovascular risk factors, as well as ischemic heart disease incidence rates three times higher than those of the middle-aged adult population in Spain. The risk profile for women is significantly worse than for men, which may be due to the higher death rate at earlier ages among men.",
+        "sections": [
+          {
+            "label": "BACKGROUND",
+            "content": "Despite a greater incidence of ischemic heart disease among individuals over age 65, most cardiovascular research has been focused on the middle-aged adult population. To date no cohort study on this population have been made in Spain. This study is aimed as reviewing the role and methodology of cohort studies as an epidemiological tool absolutely essential for researching the prevalence and incidence of angina, AMI, stroke and the major cardiovascular risk factors."
+          },
+          {
+            "label": "METHODS",
+            "content": "Cohort study in three areas of Spain (Lista district in Madrid), Arevalo (Avila) and Begonte (Lugo). Age and sex stratified random sample by based on the municipal censuses of each area and municipality (n = 5.079). Two-stage initial cohort assessment: home survey structured for the screening ischemic heart disease and classic risk factors (hypertension, dyslipemia, diabetes and smoking habit) and clinical assessment for case confirmation. In the follow-up phase the MONICA project \"cold pursuit\" method modified for pinpointing and investigating indicent cases was used, employing all of the hospital and primary care clinical records for confirming the cardiovascular event. Data was also requested from the Spanish National Institute of Statistics as to the cause and date of death of the deceased individuals in the cohort."
+          },
+          {
+            "label": "RESULTS",
+            "content": "The overall AMI prevalence was 4% (95% CI: 3.4%, 4.5%); definite plus probable AMI being 6.2% (95% CI: 5.5-6.9). The definite AMI prevalence was higher among the mean 6.7% (95% CI: 5.63-7.79) than among the women, 2% (95% CI: 1.51-2.55) (p < 0.001). Hypertension prevalence according to JNCV1 criteria was 68%, hypercholesterolemia 26.4% according to NCEP criteria, diabetes prevalence 13.4% according to WHO criteria, and 11.3% were smokers. The cumulative incidence for a 3.2-year period for nonfatal definite AMI was 1.4% (95% CI: 1.1-1.8); 1.1% (95% CI: 0.74-1.37) probable AMI: 1.17 (IC95%: 0.824-1.48) for fatal definite AMI or death due to AMI and 1.13% (IC 95%: 0.824-1.48) for sudden death."
+          },
+          {
+            "label": "CONCLUSIONS",
+            "content": "The elderly population included in this study shows a high prevalence of cardiovascular risk factors, as well as ischemic heart disease incidence rates three times higher than those of the middle-aged adult population in Spain. The risk profile for women is significantly worse than for men, which may be due to the higher death rate at earlier ages among men."
+          }
+        ],
+        "has_content": true,
+        "word_count": 371,
+        "structured": true,
+        "spanish_translation": {
+          "text": "ANTECEDENTES: A pesar de una mayor incidencia de cardiopatía isquémica en individuos mayores de 65 años, la mayor parte de la investigación cardiovascular se ha centrado en la población adulta de mediana edad. Hasta la fecha no se ha realizado ningún estudio de cohorte sobre esta población en España. El objetivo de este estudio es revisar el papel y la metodología de los estudios de cohortes como una herramienta epidemiológica absolutamente esencial para investigar la prevalencia e incidencia de angina, IAM, ictus y los principales factores de riesgo cardiovascular. MÉTODOS: Estudio de Cohort en tres áreas de España (Distrito de Lista en Madrid), Arévalo (Ávila) y Begonte (Lugo). Muestra aleatoria estratificada por edad y sexo según los censos municipales de cada área y municipio (n = 5,079). Evaluación inicial de cohorte en dos etapas: encuesta domiciliaria estructurada para el cribado de cardiopatía isquémica y factores de riesgo clásicos (hipertensión, dislipemia, diabetes y hábito de fumar) y evaluación clínica para la confirmación del caso. En la fase de seguimiento se utilizó el método de \"persecución fría\" del proyecto MONICA modificado para identificar e investigar casos indigentes, empleando todos los registros clínicos hospitalarios y de atención primaria para confirmar el evento cardiovascular. También se solicitaron datos al Instituto Nacional de Estadística de España sobre la causa y fecha de fallecimiento de los fallecidos de la cohorte. RESULTADOS: La prevalencia global del IAM fue del 4% (IC 95%: 3,4%, 4,5%; IAM definitivo más probable: 6,2% (IC 95%: 5,5-6,9). La prevalencia definida del IAM fue mayor entre la media del 6,7% (IC 95%: 5,63-7,79) que entre las mujeres, 2% (IC 95%: 1,51-2,55) (p < 0,001). La prevalencia de hipertensión según el criterio JNCV1 fue del 68%, la hipercolesterolemia del 26,4% según el criterio NCEP, la prevalencia de diabetes del 13,4% según el criterio OMS y el 11,3% eran fumadores. La incidencia acumulada para un periodo de 3,2 años para IAM definido no mortal fue del 1,4% (IC 95%: 1,1-1,8); 1,1% (IC 95%: 0,74-1,37) IAM probable: 1,17 (IC95%: 0,824-1,48) para IAM definido mortal o muerte por IAM y 1,13% (IC 95%: 0,824-1,48) para muerte súbita. CONCLUSIONES: La población anciana incluida en este estudio muestra una alta prevalencia de factores de riesgo cardiovascular, así como tasas de incidencia de cardiopatía isquémica tres veces mayores que las de la población adulta de mediana edad en España. El perfil de riesgo para las mujeres es significativamente peor que para los hombres, lo que puede deberse a la mayor tasa de mortalidad en edades más tempranas entre los hombres.",
+          "success": true,
+          "model_used": "Helsinki-NLP/opus-mt-en-es",
+          "batch_size_used": 4,
+          "translation_date": "2025-06-24T17:09:44.720580"
+        }
+      },
+      "abstract_language": "english",
+      "journal": {
+        "title": "Revista espanola de salud publica",
+        "iso_abbreviation": "Rev Esp Salud Publica",
+        "issn": "1135-5727"
+      },
+      "authors": [
+        {
+          "last_name": "Sánchez",
+          "first_name": "Rafael Gabriel"
+        },
+        {
+          "last_name": "Novella Arribas",
+          "first_name": "Blanca"
+        },
+        {
+          "last_name": "Alonso Arroyo",
+          "first_name": "Margarita"
+        },
+        {
+          "last_name": "Vega Quiroga",
+          "first_name": "Saturio"
+        },
+        {
+          "last_name": "López García",
+          "first_name": "Isidro"
+        },
+        {
+          "last_name": "Suárez Fernández",
+          "first_name": "Carmen"
+        },
+        {
+          "last_name": "Muñiz García",
+          "first_name": "Javier"
+        }
+      ],
+      "mesh_terms": [
+        {
+          "descriptor": {
+            "name": "Age Distribution",
+            "ui": "D017677",
+            "major_topic": false
+          },
+          "qualifiers": []
+        },
+        {
+          "descriptor": {
+            "name": "Aged",
+            "ui": "D000368",
+            "major_topic": false
+          },
+          "qualifiers": []
+        },
+        {
+          "descriptor": {
+            "name": "Aged, 80 and over",
+            "ui": "D000369",
+            "major_topic": false
+          },
+          "qualifiers": []
+        },
+        {
+          "descriptor": {
+            "name": "Cardiovascular Diseases",
+            "ui": "D002318",
+            "major_topic": false
+          },
+          "qualifiers": [
+            {
+              "name": "epidemiology",
+              "ui": "Q000453",
+              "major_topic": true
+            }
+          ]
+        },
+        {
+          "descriptor": {
+            "name": "Cohort Studies",
+            "ui": "D015331",
+            "major_topic": false
+          },
+          "qualifiers": []
+        },
+        {
+          "descriptor": {
+            "name": "Demography",
+            "ui": "D003710",
+            "major_topic": false
+          },
+          "qualifiers": []
+        },
+        {
+          "descriptor": {
+            "name": "Female",
+            "ui": "D005260",
+            "major_topic": false
+          },
+          "qualifiers": []
+        },
+        {
+          "descriptor": {
+            "name": "Humans",
+            "ui": "D006801",
+            "major_topic": false
+          },
+          "qualifiers": []
+        },
+        {
+          "descriptor": {
+            "name": "Male",
+            "ui": "D008297",
+            "major_topic": false
+          },
+          "qualifiers": []
+        },
+        {
+          "descriptor": {
+            "name": "Risk Factors",
+            "ui": "D012307",
+            "major_topic": false
+          },
+          "qualifiers": []
+        },
+        {
+          "descriptor": {
+            "name": "Spain",
+            "ui": "D013030",
+            "major_topic": false
+          },
+          "qualifiers": [
+            {
+              "name": "epidemiology",
+              "ui": "Q000453",
+              "major_topic": false
+            }
+          ]
+        }
+      ],
+      "keywords": [],
+      "publication_info": {
+        "year": 2004
+      },
+      "identifiers": {
+        "pubmed": "15199801",
+        "doi": "10.1590/s1135-57272004000200010"
+      },
+      "collection_date": "2025-06-19T20:29:14.321024",
+      "copyright_status": "free",
+      "quality_filters_passed": [
+        "has_abstract",
+        "has_mesh_terms",
+        "copyright_free"
+      ],
+      "title_spanish_translation": {
+        "original_title": "[The EPICARDIAN project, a cohort study on cardiovascular diseases and risk factors among the elderly in Spain: methodological aspects and major demographic findings].",
+        "cleaned_title": "The EPICARDIAN project, a cohort study on cardiovascular diseases and risk factors among the elderly in Spain: methodological aspects and major demographic findings",
+        "translated_title": "El proyecto EPICARDIAN, un estudio de cohortes sobre enfermedades cardiovasculares y factores de riesgo entre las personas mayores en España: aspectos metodológicos y principales hallazgos demográficos",
+        "success": true,
+        "model_used": "Helsinki-NLP/opus-mt-en-es",
+        "batch_size_used": 4,
+        "translation_date": "2025-08-03T20:46:36.664717"
+      }
+    }
+  ]
+}
